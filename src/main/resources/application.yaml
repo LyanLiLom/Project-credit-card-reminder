@@ -1,0 +1,9 @@
+spring:
+  data: 
+    mongodb:
+      uri: mongodb+srv://khietnguyen2:nonvRluztJhS2fiX@k-remind.zpi3i.mongodb.net/?retryWrites=true&w=majority&appName=k-remind
+      database: k-remind
+
+telegram:
+  token: 7246931751:AAGxSuSl8XDPkGQ2u9vFBxyfKGWSjEusbnU
+  username: MyCreditCardBot
